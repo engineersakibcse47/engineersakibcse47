@@ -2,7 +2,7 @@
 
 **`Postgraduate Student | Data Science | Machine Learning | Data Analysis | NLP`**
 
-Highly motivated computer science graduate, currently pursuing a [Master's Degree in Data Science](https://www.bht-berlin.de/en/m-ds). Possessing a strong foundation in computer science principles and methodologies, with a keen interest in leveraging data-driven insights to solve complex problems and contribute to business growth. Demonstrated ability to apply theoretical knowledge to practical scenarios through coursework and projects. Equipped with skills in **programming, data analysis, machine learning, deep learning and natural language processing techniques**. Seeking opportunities to contribute to innovative projects and advance in the field of data science.
+Highly motivated computer science graduate, currently pursuing a [Master's Degree in Data Science](https://www.bht-berlin.de/en/m-ds). Possessing a strong foundation in computer science principles and methodologies, with a keen interest in leveraging data-driven insights to solve complex problems and contribute to business growth. Demonstrated ability to apply theoretical knowledge to practical scenarios through coursework and projects. Equipped with skills in **programming, data analysis, machine learning, deep learning and natural language processing** techniques. Seeking opportunities to contribute to innovative projects and advance in the field of data science.
 
 #
 
